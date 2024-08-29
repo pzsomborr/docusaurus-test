@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkeasy_java=self.webpackChunkeasy_java||[]).push([[1903],{1912:a=>{a.exports=JSON.parse('{"blogBasePath":"/easyjava/blog","blogTitle":"Blog","authorsListPath":"/easyjava/blog/authors"}')}}]);
