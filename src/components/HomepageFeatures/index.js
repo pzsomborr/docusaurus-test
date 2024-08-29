@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Interview Preparation 🧑🏻‍💼',
+    Svg: require('@site/static/img/interview.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Ace your Java interviews with confidence! I've put together a collection of essential topics, common questions, and practical coding exercises to help you prepare for your next job interview. 
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Learning from zero 🎓',
+    Svg: require('@site/static/img/online_learning.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Starting from scratch? I’ll guide you through the basics, helping you build a strong foundation in Java. Step by step, you’ll learn how to write your first lines of code, understand key concepts, and gradually progress to more complex topics.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Solving Problems 👩🏻‍💻',
+    Svg: require('@site/static/img/programming.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+      Here, you'll find a wide range of coding challenges tailored to different skill levels, along with guidance on how to tackle problems on popular platforms like LeetCode and HackerRank. 
       </>
     ),
   },
