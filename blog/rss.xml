@@ -25,6 +25,7 @@
 </ul>
 <p>A blog post folder can be convenient to co-locate blog post images:</p>
 <p><img decoding="async" loading="lazy" alt="Docusaurus Plushie" src="https://pzsomborr.github.io/easyjava/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="Random" src="https://pzsomborr.github.io/easyjava/assets/images/pic1-789d8ae3cbe7660053052ca193463971.png" width="1920" height="1080" class="img_ev3q"></p>
 <p>The blog supports tags as well!</p>
 <p><strong>And if you don't want a blog</strong>: just delete this directory, and use <code>blog: false</code> in your Docusaurus config.</p>]]></content:encoded>
             <category>Facebook</category>
