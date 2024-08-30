@@ -4,45 +4,34 @@ sidebar_position: 2
 
 # 💡 Useful links and tips
 
+## Youtube channels
 
-## Getting Started
+If you need an explaination about a certain Java topic, I recommend these guys:
+- [Coding with John](https://www.youtube.com/@CodingWithJohn)
+- [Telusko](https://www.youtube.com/@Telusko)
 
-Get started by **creating a new site**.
+For general software developer topics:
+- [Fireship](https://www.youtube.com/@Fireship)
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## Productivity tips
 
-### What you'll need
+You need to reduce distractions.
 
+Learning to code requires long-term focus, so you need to avoid **short form videos** as much as you can.
 
+I recommend the following tips and tools that have worked for me.
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+- Delete all social media apps.
+- YouTube extension to avoid distractions: [Unhook](https://unhook.app/) **(game changer 🚀🚀🚀)**
 
-## Generate a new site
+## Coding tests
 
-Generate a new Docusaurus site using the **classic template**.
+- [code-exercises.com](https://code-exercises.com/)
+- [codingbat](https://codingbat.com/java)
+- [neetcode](https://neetcode.io/practice)
+- [algomap](https://algomap.io/)
 
-The classic template will automatically be added to your project after you run the command:
+## Other
 
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+- Java roadmap: [roadmap.sh](https://roadmap.sh/java)
+- [ChatGPT](https://chatgpt.com/)

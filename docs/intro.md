@@ -4,45 +4,42 @@ sidebar_position: 1
 
 # 🔎 Read this first
 
+To be honest, there are a lot of free Java content on the web, sooo... 👇
 
-## Getting Started
-
-Get started by **creating a new site**.
-
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-### What you'll need
+## Why did I make this site? 🤔
 
 
+I’m also a beginner at Java/programming, so this site serves a few purposes for me:
+- Showcase my current knowledge
+- Revise the things I already know
+- Practice my English
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+I taught myself Java in my free time, so I understand how much time it takes to piece together all the information you need.
 
-## Generate a new site
+It’s 2024, and our attention spans are getting shorter.
 
-Generate a new Docusaurus site using the **classic template**.
+Personally, I find it tough to read long documents or sit through hour-long videos. ⏳
 
-The classic template will automatically be added to your project after you run the command:
+That’s why I’ve decided to use drawings, emojis, and the simplest examples possible in my lessons.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+My goal is to make learning Java as quick and painless as possible for everyone. 🙌
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+## But why Java? 😭
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+Although Java gets a lot of hate...
 
-## Start your site
+it is used by companies in tech, government, finance, healthcare, insurance, education, manufacturing, defense and more. 90 percent of Fortune 500 companies use Java for their backend architecture.
 
-Run the development server:
+![major companies that use java](companies_that_use_java.avif)
 
-```bash
-cd my-website
-npm run start
-```
+Also if you are looking to land a job:
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+![Java job ranking](java_jobs_in_usa.avif)
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+## You Can Donate if You Want 💖
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+**If you find the content useful:**
+
+I've put in a lot of time to create it, so if you'd like to support my work, you can donate [here](https://buymeacoffee.com/)
+
+Your support truly means a lot to me!
